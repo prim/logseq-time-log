@@ -1,0 +1,12 @@
+{
+  "name": "logseq-time-log",
+  "version": "0.0.1",
+  "description": "log all your time.",
+  "main": "index.html",
+  "author": "Charlie",
+  "license": "MIT",
+  "logseq": {
+    "id": "_r5fbt3wdc",
+    "icon": "./logo.png"
+  }
+}
